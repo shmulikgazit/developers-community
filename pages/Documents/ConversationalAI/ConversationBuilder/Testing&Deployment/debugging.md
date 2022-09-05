@@ -9,7 +9,7 @@ permalink: conversation-builder-testing-deployment-debugging.html
 indicator: both
 ---
 
-The Bot Logs window can display the log of the conversation that occurred in the Preview window or the log of any conversation that occurred in a supported channel. This makes it a useful tool in a few ways. 
+The Bot Logs window can display the log of the conversation that occurred in the Preview window or the log of any conversation that occurred in a supported channel. This makes it a useful tool in a few ways. In order to open the Bot Logs window, press on "Preview" when in bot editing mode (top right), then press on the "maximize" icon in the preview window.
 
 First, if you're encountering unexpected behavior, always check the Bot Logs window. Errors and failures are displayed in red, so you'll know at a glance if and where they occurred.
 
